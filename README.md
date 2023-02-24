@@ -1,7 +1,11 @@
 # DSA 6000I: Large Language Models (LLMs) and LLM Ops
 
+## Co-instructors
+* Sung Kim
+* Jungwoo Ha
+
 ## Course Overview:
-This course will provide students with a comprehensive understanding of Large Language Models (LLMs) and their practical applications in a production environment, using LLM Ops methodology. We will explore the latest developments in LLMs and LLM Ops, as well as hands-on training in developing, deploying, and evaluating LLMs. The course will be co-taught by Sung Kim and Jungwoo Ha.
+This course will provide students with a comprehensive understanding of Large Language Models (LLMs) and their practical applications in a production environment, using LLM Ops methodology. We will explore the latest developments in LLMs and LLM Ops, as well as hands-on training in developing, deploying, and evaluating LLMs.
 
 ## Potential Project Topics:
 Students will work on individual or group projects that involve the development or evaluation of LLMs in a production environment. Here are 4 potential project topics:
