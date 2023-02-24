@@ -1,1 +1,53 @@
-# DSAA6000I
+# DSA 6000I: Large Language Models (LLMs) and LLM Ops
+
+## Course Overview:
+This course will provide students with a comprehensive understanding of Large Language Models (LLMs) and their practical applications in a production environment, using LLM Ops methodology. We will explore the latest developments in LLMs and LLM Ops, as well as hands-on training in developing, deploying, and evaluating LLMs. The course will be co-taught by Sung Kim and Jungwoo Ha.
+
+## Potential Project Topics:
+Students will work on individual or group projects that involve the development or evaluation of LLMs in a production environment. Here are 4 potential project topics:
+
+* Fine-tuning an existing LLM, such as GPT-2 or BERT, for a specific task or domain. For example, you could train the LLM to generate product descriptions, analyze customer feedback, or summarize news articles.
+
+* Developing a small-scale LLM from scratch, perhaps using a pre-existing architecture such as OpenAI's GPT architecture. This could be a great opportunity to experiment with different training techniques and see how they affect the quality and performance of the LLM.
+
+* Implementing LLMs in practical contexts, such as developing an LLM-powered chatbot for customer service, or training an LLM to classify and analyze medical data for clinical decision-making.
+
+* Evaluating the performance of LLMs, perhaps by comparing the results of different models on a specific task or dataset. This could involve testing the LLMs on metrics such as accuracy, precision, and recall, and analyzing the factors that contribute to their performance.
+
+## Course Outline:
+
+### Week 1: Introduction to Large Language Models (LLMs) and LLM Ops
+- Overview of LLMs and their applications in a production environment
+- Introduction to LLM Ops methodology
+
+### Week 2: LLM Architecture and Training
+- Deep dive into LLM architectures
+- Techniques for training LLMs from scratch
+
+### Week 3: Fine-tuning LLMs
+- Overview of fine-tuning LLMs
+- Best practices for fine-tuning LLMs in a production environment
+
+### Week 4: LLM Ops in Industry
+- Guest speaker presentations from industry professionals on LLM Ops best practices
+- Discussion of practical considerations for LLM Ops in a production environment
+
+### Week 5: Project Planning and Design
+- Students will propose their own LLM Ops project ideas and receive feedback from instructors and peers
+- Project design and planning, including defining requirements and identifying resources
+
+### Week 6-7: Project Development
+- Students will work on their individual or group projects, with guidance and support from instructors as needed.
+
+### Week 8: LLM Evaluation and Testing
+- Students will learn about evaluation metrics for LLM models, and will test their models on a test dataset to measure accuracy, recall, and other performance indicators.
+
+### Week 9: LLM Deployment
+- Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
+
+### Week 10: LLM Monitoring and Maintenance, and Project Presentations
+- Students will learn about monitoring and maintenance techniques for LLM models in a production environment, and will set up monitoring and alerting mechanisms for their deployed models.
+- Final project presentations to the class, and feedback from instructors and peers.
+- Course review and wrap-up.
+
+Overall, the course will provide students with a solid understanding of LLM Ops methodology, as well as hands-on experience in developing, deploying, and evaluating LLMs in a production environment. This
