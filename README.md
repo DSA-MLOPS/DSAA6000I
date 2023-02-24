@@ -54,4 +54,7 @@ Students will work on individual or group projects that involve the development 
 - Final project presentations to the class, and feedback from instructors and peers.
 - Course review and wrap-up.
 
-Overall, the course will provide students with a solid understanding of LLM Ops methodology, as well as hands-on experience in developing, deploying, and evaluating LLMs in a production environment. This
+Overall, the course will provide students with a solid understanding of LLM Ops methodology, as well as hands-on experience in developing, deploying, and evaluating LLMs in a production environment. This skill set is essential for any career in the field of natural language processing. The course will be co-taught by Sung Kim and Jungwoo Ha, who have extensive experience in the field and have worked on a variety of LLM-based projects.
+
+We encourage students with a background in natural language processing, machine learning, or data science to enroll in this course. Students should have experience with programming languages such as Python, and familiarity with deep learning frameworks such as TensorFlow or PyTorch.
+
