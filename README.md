@@ -10,7 +10,7 @@ This course will provide students with a comprehensive understanding of Large La
 ## Potential Project Topics:
 Students will work on individual or group projects that involve the development or evaluation of LLMs in a production environment. Here are 4 potential project topics:
 
-* Fine-tuning an existing LLM, such as GPT-2 or BERT, for a specific task or domain. For example, you could train the LLM to generate product descriptions, analyze customer feedback, or summarize news articles.
+* Fine-tuning an existing LLM, such as GPT, for a specific task or domain. For example, you could train the LLM to generate product descriptions, analyze customer feedback, or summarize news articles.
 
 * Developing a small-scale LLM from scratch, perhaps using a pre-existing architecture such as OpenAI's GPT architecture. This could be a great opportunity to experiment with different training techniques and see how they affect the quality and performance of the LLM.
 
