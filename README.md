@@ -59,3 +59,6 @@ Overall, the course will provide students with a solid understanding of LLM Ops 
 
 We encourage students with a background in natural language processing, machine learning, or data science to enroll in this course. Students should have experience with programming languages such as Python, and familiarity with deep learning frameworks such as TensorFlow or PyTorch.
 
+## References
+* https://github.com/microsoft/LMOps
+
