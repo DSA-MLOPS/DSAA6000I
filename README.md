@@ -1,5 +1,5 @@
 # DSA 6000I: Large Language Models (LLMs) and LLM Ops
-### Fall 2023: Friday 9:30AM-12:00AM HKT
+### Fall 2023: Friday 9:30AM-12:00PM HKT
 
 ## Co-instructors
 * Sung Kim
