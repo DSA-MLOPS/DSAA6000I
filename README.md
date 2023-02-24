@@ -49,7 +49,7 @@ Students will work on individual or group projects that involve the development 
 ### Week 9: LLM Deployment
 - Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
 
-### Week 10: LLM Monitoring and Maintenance, and Project Presentations
+### Week 10-12: LLM Monitoring and Maintenance, and Project Presentations
 - Students will learn about monitoring and maintenance techniques for LLM models in a production environment, and will set up monitoring and alerting mechanisms for their deployed models.
 - Final project presentations to the class, and feedback from instructors and peers.
 - Course review and wrap-up.
