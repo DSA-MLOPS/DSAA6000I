@@ -61,4 +61,5 @@ We encourage students with a background in natural language processing, machine 
 
 ## References
 * https://github.com/microsoft/LMOps
+* https://scale.com/spellbook
 
