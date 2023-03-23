@@ -64,4 +64,5 @@ We encourage students with a background in natural language processing, machine 
 * https://scale.com/spellbook
 * https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/
 * https://huggingface.co/docs/transformers/training
+* https://arxiv.org/abs/2303.12712
 
