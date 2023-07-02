@@ -21,36 +21,40 @@ Students will work on individual or group projects that involve the development 
 
 ## Course Outline:
 
-### Week 1: Introduction to Large Language Models (LLMs) and LLM Ops
+### Week 1 Sep 8: Introduction to Large Language Models (LLMs) and LLM Ops
 - Overview of LLMs and their applications in a production environment
 - Introduction to LLM Ops methodology
 
-### Week 2: LLM Architecture and Training
+### Week 2 Sep 15: LLM Architecture and Training
 - Deep dive into LLM architectures
 - Techniques for training LLMs from scratch
 
-### Week 3: Fine-tuning LLMs
+### Week 3 Sep 22: Fine-tuning LLMs
 - Overview of fine-tuning LLMs
 - Best practices for fine-tuning LLMs in a production environment
 
-### Week 4: LLM Ops in Industry
+### Mod-Autumn Break Sep 29, Oct 6
+
+### Week 4 Oct 13: LLM Ops in Industry
 - Guest speaker presentations from industry professionals on LLM Ops best practices
 - Discussion of practical considerations for LLM Ops in a production environment
 
-### Week 5: Project Planning and Design
+### Week 5 Oct 20: Project Planning and Design
 - Students will propose their own LLM Ops project ideas and receive feedback from instructors and peers
 - Project design and planning, including defining requirements and identifying resources
 
-### Week 6-7: Project Development
+### Week 6-7 Oct 27/Nov3: Project Development
 - Students will work on their individual or group projects, with guidance and support from instructors as needed.
 
-### Week 8: LLM Evaluation and Testing
+### Week 8 Nov 10: LLM Evaluation and Testing
 - Students will learn about evaluation metrics for LLM models, and will test their models on a test dataset to measure accuracy, recall, and other performance indicators.
 
-### Week 9: LLM Deployment
+### Week 9 Nov 17: LLM Deployment
 - Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
 
-### Week 10-12: LLM Monitoring and Maintenance, and Project Presentations
+### Week 10 Nov 24: LLM Monitoring and Maintenance
+
+### Week 11-12 Dec 1: Project Presentations
 - Students will learn about monitoring and maintenance techniques for LLM models in a production environment, and will set up monitoring and alerting mechanisms for their deployed models.
 - Final project presentations to the class, and feedback from instructors and peers.
 - Course review and wrap-up.
