@@ -29,6 +29,10 @@ Students will work on individual or group projects that involve the development 
 - Deep dive into LLM architectures
 - Techniques for training LLMs from scratch
 
+### Paper Reading
+- https://arxiv.org/abs/2307.03109
+- https://arxiv.org/abs/2303.18223
+
 ### Week 3 Sep 22: Fine-tuning LLMs
 - Overview of fine-tuning LLMs
 - Best practices for fine-tuning LLMs in a production environment
