@@ -56,7 +56,10 @@ Students will work on individual or group projects that involve the development 
 ### Week 9 Nov 17: LLM Deployment
 - Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
 
-### Week 10 Nov 24: LLM Monitoring and Maintenance
+### Week 10 Nov 24: AI Regulations
+* International Institutions for Advanced AI: https://arxiv.org/abs/2307.04699
+* Frontier AI Regulation: Managing Emerging Risks to Public Safety: https://arxiv.org/abs/2307.03718
+
 
 ### Week 11-12 Dec 1: Project Presentations
 - Students will learn about monitoring and maintenance techniques for LLM models in a production environment, and will set up monitoring and alerting mechanisms for their deployed models.
