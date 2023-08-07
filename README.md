@@ -43,9 +43,8 @@ Students will work on individual or group projects that involve the development 
 - Guest speaker presentations from industry professionals on LLM Ops best practices
 - Discussion of practical considerations for LLM Ops in a production environment
 
-### Week 5 Oct 20: Project Planning and Design
-- Students will propose their own LLM Ops project ideas and receive feedback from instructors and peers
-- Project design and planning, including defining requirements and identifying resources
+### Week 5 Oct 20: A Survey of Large Language Models by ZHAO Xin (the author)
+
 
 ### Week 6-7 Oct 27/Nov3: Project Development
 - Students will work on their individual or group projects, with guidance and support from instructors as needed.
