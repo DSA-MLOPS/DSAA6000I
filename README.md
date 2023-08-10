@@ -31,7 +31,7 @@ Students will work on individual or group projects that involve the development 
 
 ### Paper Reading
 - https://arxiv.org/abs/2307.03109
-- https://arxiv.org/abs/2303.18223
+- 
 
 ### Week 3 Sep 22: Fine-tuning LLMs (John)
 - Overview of fine-tuning LLMs
@@ -39,11 +39,12 @@ Students will work on individual or group projects that involve the development 
 
 ### Mod-Autumn Break Sep 29, Oct 6
 
-### Week 4 Oct 13: LLM Ops in Industry
-- Guest speaker presentations from industry professionals on LLM Ops best practices
-- Discussion of practical considerations for LLM Ops in a production environment
+### Week 4 Oct 13: LLM in Industry (Junyang Lin from Qwen Team)
+- https://github.com/QwenLM/Qwen-7B
+- One of the best open LLM models
 
-### Week 5 Oct 20: A Survey of Large Language Models by ZHAO Xin (the author)
+### Week 5 Oct 20: A Survey of Large Language Models by ZHAO Xin (the first author)
+ - Reader paper in advance: https://arxiv.org/abs/2303.18223 
 
 
 ### Week 6-7 Oct 27/Nov3: Project Development
