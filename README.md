@@ -33,7 +33,7 @@ Students will work on individual or group projects that involve the development 
 - https://arxiv.org/abs/2307.03109
 - 
 
-### Week 3 Sep 22: Fine-tuning LLMs (John)
+### Week 3 Sep 22: Fine-tuning LLMs (Code-GPT, John)
 - Overview of fine-tuning LLMs
 - Best practices for fine-tuning LLMs in a production environment
 
