@@ -25,7 +25,7 @@ Students will work on individual or group projects that involve the development 
 - Overview of LLMs and their applications in a production environment
 - Introduction to LLM Ops methodology
 
-### Week 2 Sep 15: TBA (Jung-Woo Ha, Head of Naver AI)
+### Week 2 Sep 15: TBA (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
 - Deep dive into LLM architectures
 - Techniques for training LLMs from scratch
 
