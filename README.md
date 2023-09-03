@@ -3,7 +3,7 @@
 
 ## Co-instructors
 * Sung Kim
-* Jungwoo Ha
+* Jungwoo Ha (Adjunct Prof)
 
 ## Course Overview:
 This course will provide students with a comprehensive understanding of Large Language Models (LLMs) and their practical applications in a production environment, using LLM Ops methodology. We will explore the latest developments in LLMs and LLM Ops, as well as hands-on training in developing, deploying, and evaluating LLMs.
