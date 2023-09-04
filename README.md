@@ -53,7 +53,7 @@ Students will work on individual or group projects that involve the development 
 ### Week 8 Nov 10: LLM Evaluation and Testing
 - Students will learn about evaluation metrics for LLM models, and will test their models on a test dataset to measure accuracy, recall, and other performance indicators.
 
-### Week 9 Nov 17: LLM Deployment
+### Week 9 Nov 17: LLM Deployment (Matthias Gallé from Cohere)
 - Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
 
 ### Week 10 Nov 24: AI Regulations
