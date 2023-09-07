@@ -9,15 +9,21 @@
 This course will provide students with a comprehensive understanding of Large Language Models (LLMs) and their practical applications in a production environment, using LLM Ops methodology. We will explore the latest developments in LLMs and LLM Ops, as well as hands-on training in developing, deploying, and evaluating LLMs.
 
 ## Potential Project Topics:
-Students will work on individual or group projects that involve the development or evaluation of LLMs in a production environment. Here are 4 potential project topics:
+Students will work on individual or group projects that involve the development or evaluation of LLMs in a production environment. Here are 3 potential project topics:
 
 * Fine-tuning an existing LLM, such as GPT, for a specific task or domain. For example, you could train the LLM to generate product descriptions, analyze customer feedback, or summarize news articles.
-
-* Developing a small-scale LLM from scratch, perhaps using a pre-existing architecture such as OpenAI's GPT architecture. This could be a great opportunity to experiment with different training techniques and see how they affect the quality and performance of the LLM.
 
 * Implementing LLMs in practical contexts, such as developing an LLM-powered chatbot for customer service, or training an LLM to classify and analyze medical data for clinical decision-making.
 
 * Evaluating the performance of LLMs, perhaps by comparing the results of different models on a specific task or dataset. This could involve testing the LLMs on metrics such as accuracy, precision, and recall, and analyzing the factors that contribute to their performance.
+
+## Grading breakdown:
+
+* Participations: 10%
+* Homework: 10%
+* Mid-term (covering basic concepts): 30%
+* Mid-project proposal: 10%
+* Final project: 40%
 
 ## Course Outline:
 
@@ -50,13 +56,13 @@ Students will work on individual or group projects that involve the development 
 ### Week 6-7 Oct 27/Nov3: Project Development
 - Students will work on their individual or group projects, with guidance and support from instructors as needed.
 
-### Week 8 Nov 10: LLM Evaluation and Testing
+### Week 8 Nov 10: LLM Evaluation and Testing (A developer from Huggingface TBA)
 - Students will learn about evaluation metrics for LLM models, and will test their models on a test dataset to measure accuracy, recall, and other performance indicators.
 
 ### Week 9 Nov 17: LLM Deployment (Matthias Gallé from Cohere)
 - Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
 
-### Week 10 Nov 24: AI Regulations
+### Week 10 Nov 24: AI Regulations (A researcher from Naver)
 * International Institutions for Advanced AI: https://arxiv.org/abs/2307.04699
 * Frontier AI Regulation: Managing Emerging Risks to Public Safety: https://arxiv.org/abs/2307.03718
 
