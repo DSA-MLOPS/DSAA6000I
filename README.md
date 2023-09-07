@@ -33,6 +33,7 @@ Students will work on individual or group projects that involve the development 
 - HW (read and one-page report)
   *  Transformer: https://arxiv.org/abs/1706.03762
   *  GPT3.5: https://arxiv.org/abs/2203.02155
+  *  https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a
 
 ### Week 2 Sep 15: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
 - Deep dive into LLM architectures
