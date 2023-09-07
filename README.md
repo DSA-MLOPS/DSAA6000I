@@ -30,14 +30,14 @@ Students will work on individual or group projects that involve the development 
 ### Week 1 Sep 8: Introduction to Large Language Models (LLMs) and LLM Ops (Sung Kim)
 - Overview of LLMs and their applications in a production environment
 - Introduction to LLM Ops methodology
+- HW (read and one-page report)
+  *  Transformer: https://arxiv.org/abs/1706.03762
+  *  GPT3.5: https://arxiv.org/abs/2203.02155
 
 ### Week 2 Sep 15: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
 - Deep dive into LLM architectures
 - Techniques for training LLMs from scratch
 
-### Paper Reading
-- https://arxiv.org/abs/2307.03109
-- 
 
 ### Week 3 Sep 22: Fine-tuning LLMs (Code-GPT, John)
 - Overview of fine-tuning LLMs
@@ -58,6 +58,7 @@ Students will work on individual or group projects that involve the development 
 
 ### Week 8 Nov 10: LLM Evaluation and Testing (A developer from Huggingface TBA)
 - Students will learn about evaluation metrics for LLM models, and will test their models on a test dataset to measure accuracy, recall, and other performance indicators.
+- LLM Evaluations: https://arxiv.org/abs/2307.03109
 
 ### Week 9 Nov 17: LLM Deployment (Matthias Gallé from Cohere)
 - Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
