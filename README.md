@@ -27,7 +27,7 @@ Students will work on individual or group projects that involve the development 
 
 ## Course Outline:
 
-### Week 1 Sep 8: Introduction to Large Language Models (LLMs) and LLM Ops (Sung Kim)
+### Week 1 Sep 8: Introduction to Large Language Models (LLMs) and LLM Ops (Sung Kim) GZ --> Zoom
 - Overview of LLMs and their applications in a production environment
 - Introduction to LLM Ops methodology
 - HW (read and one-page report)
@@ -35,41 +35,41 @@ Students will work on individual or group projects that involve the development 
   *  GPT3.5: https://arxiv.org/abs/2203.02155
   *  https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a
 
-### Week 2 Sep 15: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
+### Week 2 Sep 15: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST) Zoom
 - Deep dive into LLM architectures
 - Techniques for training LLMs from scratch
 
 
-### Week 3 Sep 22: Fine-tuning LLMs (Code-GPT, John)
+### Week 3 Sep 22: Fine-tuning LLMs (Code-GPT, John) GZ
 - Overview of fine-tuning LLMs
 - Best practices for fine-tuning LLMs in a production environment
 
 ### Mod-Autumn Break Sep 29, Oct 6
 
-### Week 4 Oct 13: LLM in Industry (Junyang Lin from Qwen Team)
+### Week 4 Oct 13: LLM in Industry (Junyang Lin from Qwen Team) Zoom
 - https://github.com/QwenLM/Qwen-7B
 - One of the best open LLM models
 
-### Week 5 Oct 20: A Survey of Large Language Models by ZHAO Xin (the first author)
+### Week 5 Oct 20: A Survey of Large Language Models by ZHAO Xin (the first author) Zoom 
  - Reader paper in advance: https://arxiv.org/abs/2303.18223 
 
 
-### Week 6-7 Oct 27/Nov3: Project Development
+### Week 6-7 Oct 27/Nov3: Project Development GZ 
 - Students will work on their individual or group projects, with guidance and support from instructors as needed.
 
-### Week 8 Nov 10: LLM Evaluation and Testing (A developer from Huggingface TBA)
+### Week 8 Nov 10: LLM Evaluation and Testing (A developer from Huggingface TBA) Zoom 
 - Students will learn about evaluation metrics for LLM models, and will test their models on a test dataset to measure accuracy, recall, and other performance indicators.
 - LLM Evaluations: https://arxiv.org/abs/2307.03109
 
-### Week 9 Nov 17: LLM Deployment (Matthias Gallé from Cohere)
+### Week 9 Nov 17: LLM Deployment (Matthias Gallé from Cohere) Zoom 
 - Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
 
-### Week 10 Nov 24: AI Regulations (A researcher from Naver)
+### Week 10 Nov 24: AI Regulations (A researcher from Naver) Zoom
 * International Institutions for Advanced AI: https://arxiv.org/abs/2307.04699
 * Frontier AI Regulation: Managing Emerging Risks to Public Safety: https://arxiv.org/abs/2307.03718
 
 
-### Week 11-12 Dec 1: Project Presentations
+### Week 11-12 Dec 1: Project Presentations Poster session GZ
 - Students will learn about monitoring and maintenance techniques for LLM models in a production environment, and will set up monitoring and alerting mechanisms for their deployed models.
 - Final project presentations to the class, and feedback from instructors and peers.
 - Course review and wrap-up.
