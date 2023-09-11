@@ -64,7 +64,7 @@ Students will work on individual or group projects that involve the development 
 ### Week 9 Nov 17: LLM Deployment (Matthias Gallé from Cohere) Zoom 
 - Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
 
-### Week 10 Nov 24: AI Regulations (A researcher from Naver) Zoom
+### Week 10 Nov 24: AI Regulations (Hwaran Lee from Naver) Zoom
 * International Institutions for Advanced AI: https://arxiv.org/abs/2307.04699
 * Frontier AI Regulation: Managing Emerging Risks to Public Safety: https://arxiv.org/abs/2307.03718
 
