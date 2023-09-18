@@ -41,7 +41,7 @@ Students will work on individual or group projects that involve the development 
 - Techniques for training LLMs from scratch
 
 
-### Week 3 Sep 22: Fine-tuning LLMs (Code-GPT, John) GZ
+### Week 3 Sep 22: Fine-tuning LLMs (Code-GPT, John) GZ + Zoom: #1 Huggingface Leaderboard
 - Overview of fine-tuning LLMs
 - Best practices for fine-tuning LLMs in a production environment
 
