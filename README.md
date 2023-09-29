@@ -44,7 +44,8 @@ Students will work on individual or group projects that involve the development 
 ### Week 3 Sep 22: Fine-tuning LLMs (Code-GPT, John) GZ + Zoom: #1 Huggingface Leaderboard
 - Overview of fine-tuning LLMs
 - Best practices for fine-tuning LLMs in a production environment
-- https://artificialcorner.com/mastering-llama-2-a-comprehensive-guide-to-fine-tuning-in-google-colab-bedfcc692b7f 
+- https://artificialcorner.com/mastering-llama-2-a-comprehensive-guide-to-fine-tuning-in-google-colab-bedfcc692b7f
+- https://huggingface.co/docs/trl/index
 
 ### Mod-Autumn Break Sep 29, Oct 6
 
