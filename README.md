@@ -44,6 +44,7 @@ Students will work on individual or group projects that involve the development 
 ### Week 3 Sep 22: Fine-tuning LLMs (Code-GPT, John) GZ + Zoom: #1 Huggingface Leaderboard
 - Overview of fine-tuning LLMs
 - Best practices for fine-tuning LLMs in a production environment
+- Simple example: https://github.com/facebookresearch/llama-recipes/blob/main/examples/quickstart.ipynb
 - https://artificialcorner.com/mastering-llama-2-a-comprehensive-guide-to-fine-tuning-in-google-colab-bedfcc692b7f
 - https://huggingface.co/docs/trl/index
 - https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-for-text-generation-on-amazon-sagemaker-jumpstart/
