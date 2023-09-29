@@ -44,12 +44,14 @@ Students will work on individual or group projects that involve the development 
 ### Week 3 Sep 22: Fine-tuning LLMs (Code-GPT, John) GZ + Zoom: #1 Huggingface Leaderboard
 - Overview of fine-tuning LLMs
 - Best practices for fine-tuning LLMs in a production environment
+- https://artificialcorner.com/mastering-llama-2-a-comprehensive-guide-to-fine-tuning-in-google-colab-bedfcc692b7f 
 
 ### Mod-Autumn Break Sep 29, Oct 6
 
 ### Week 4 Oct 13: LLM in Industry (Junyang Lin from Qwen Team) Zoom
 - https://github.com/QwenLM/Qwen-7B
 - One of the best open LLM models
+- Prepare questions! 
 
 ### Week 5 Oct 20: A Survey of Large Language Models by ZHAO Xin (the first author) Zoom 
  - Reader paper in advance: https://arxiv.org/abs/2303.18223 
