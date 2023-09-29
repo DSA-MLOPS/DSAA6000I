@@ -47,6 +47,7 @@ Students will work on individual or group projects that involve the development 
 - https://artificialcorner.com/mastering-llama-2-a-comprehensive-guide-to-fine-tuning-in-google-colab-bedfcc692b7f
 - https://huggingface.co/docs/trl/index
 - https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-for-text-generation-on-amazon-sagemaker-jumpstart/
+- https://github.com/facebookresearch/llama-recipes
 
 ### Mod-Autumn Break Sep 29, Oct 6
 
