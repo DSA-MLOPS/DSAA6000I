@@ -61,7 +61,9 @@ Students will work on individual or group projects that involve the development 
  - Reader paper in advance: https://arxiv.org/abs/2303.18223 
 
 
-### Week 6-7 Oct 27/Nov3: Project Development GZ 
+### Week 6 Oct 27: Teaming + Applications survey Zoom 
+
+### Week 7 Nov3: Project Development GZ 
 - Students will work on their individual or group projects, with guidance and support from instructors as needed.
 
 ### Week 8 Nov 10: LLM Evaluation and Testing (A developer from Huggingface TBA) Zoom 
