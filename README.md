@@ -66,7 +66,7 @@ Students will work on individual or group projects that involve the development 
 ### Week 7 Nov3: Project Development GZ 
 - Students will work on their individual or group projects, with guidance and support from instructors as needed.
 
-### Week 8 Nov 10: LLM Evaluation and Testing (A developer from Huggingface TBA) Zoom 
+### Week 8 Nov 10: LLM Applications (Head of AI @Ping An, Jing Xiao)) Zoom 
 - Students will learn about evaluation metrics for LLM models, and will test their models on a test dataset to measure accuracy, recall, and other performance indicators.
 - LLM Evaluations: https://arxiv.org/abs/2307.03109
 
