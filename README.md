@@ -67,10 +67,9 @@ Students will work on individual or group projects that involve the development 
 - Students will work on their individual or group projects, with guidance and support from instructors as needed.
 
 ### Week 8 Nov 10: LLM Applications and Evaluations (Head of AI @Ping An, Jing Xiao & Songyang Zhang @Opencompass) Zoom 
-- AI-empowered financial services (@Ping An)
-- Opencompass LLM leaderboards and evaluations 
-- Students will learn about evaluation metrics for LLM models, and will test their models on a test dataset to measure accuracy, recall, and other performance indicators.
-- LLM Evaluations: https://arxiv.org/abs/2307.03109
+- 9 AM HKT to 10:20 AM: Jing Xiao, Chief Scientist at PingAn Group, presents on AI-empowered financial services.
+- 10:20 AM HKT to 11:20 AM: Dr. Songyang Zhang from OpenMMLab discusses analyzing large language models through systematic evaluation.
+- Read: LLM Evaluations, https://arxiv.org/abs/2307.03109
 
 ### Week 9 Nov 17: LLM Deployment (Matthias Gallé from Cohere) Zoom 
 - Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
