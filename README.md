@@ -75,8 +75,18 @@ Students will work on individual or group projects that involve the development 
 - Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
 
 ### Week 10 Nov 24: AI Regulations (Hwaran Lee from Naver) Zoom
-* International Institutions for Advanced AI: https://arxiv.org/abs/2307.04699
-* Frontier AI Regulation: Managing Emerging Risks to Public Safety: https://arxiv.org/abs/2307.03718
+* Talk1: Hwran Lee from Naver
+* Talk2: Taekyoon Ted Choi from Naver "Efficient Training for Korean-English Cross-Language Models: Unlocking Solutions under $10K"
+
+Intro:  In this exploration, we'll delve into the challenges faced by non-English languages within Language Model (LLM) communities and address these issues, particularly for public researchers. Our focus lies on presenting an efficient training method—Continual Learning—utilizing the renowned Llama2 multilingual model. This session will shed light on strategic data building and model training mechanisms designed to minimize the side effects of Continual Learning. Additionally, we'll share insights and practical tips gleaned from our experiments in training Cross-Language Models.
+
+Bio: 
+Taekyoon is a Research Engineer at NAVER, where my passion lies in the intricate intersection of structuring and compressing global knowledge into parametric models. 
+His expertise extends to evaluating the reconstructive performance of these models and harnessing user behaviors to enhance overall experiences. His contributions span beyond the realm of research, actively involving the practical application of these insights to a diverse range of services. In essence, he is dedicated to bridging the gap between cutting-edge research and tangible, user-centric solutions.
+
+* References
+  * International Institutions for Advanced AI: https://arxiv.org/abs/2307.04699
+  * Frontier AI Regulation: Managing Emerging Risks to Public Safety: https://arxiv.org/abs/2307.03718
 
 
 ### Week 11-12 Dec 1: Project Presentations Poster session GZ
