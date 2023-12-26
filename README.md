@@ -52,12 +52,10 @@ Students will work on individual or group projects that involve the development 
 - https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-for-text-generation-on-amazon-sagemaker-jumpstart/
 - https://github.com/facebookresearch/llama-recipes
 
-### Week 4 Feb 23: LLM in Industry (Junyang Lin from Qwen Team) Zoom
-- https://github.com/QwenLM/Qwen-7B
-- One of the best open LLM models
-- Prepare questions! 
+### Week 4 Feb 23: LLM in Industry  Zoom
 
-### Week 5 Mar 1: A Survey of Large Language Models by ZHAO Xin (the first author) Zoom 
+
+### Week 5 Mar 1: A Survey of Large Language Models
  - Reader paper in advance: https://arxiv.org/abs/2303.18223 
 
 ### Week 6 Mar 8: Teaming + Applications survey Zoom 
@@ -65,29 +63,17 @@ Students will work on individual or group projects that involve the development 
 ### Week 7 Mar 15: Project Development GZ 
 - Students will work on their individual or group projects, with guidance and support from instructors as needed.
 
-### Week 8 Mar 22: LLM Applications and Evaluations (Head of AI @Ping An, Jing Xiao & Songyang Zhang @Opencompass) Zoom 
-- 9 AM HKT to 10:20 AM: Jing Xiao, Chief Scientist at PingAn Group, presents on AI-empowered financial services.
-- 10:20 AM HKT to 11:20 AM: Dr. Songyang Zhang from OpenMMLab discusses analyzing large language models through systematic evaluation.
+### Week 8 Mar 22: LLM Applications and Evaluations  
 - Read: LLM Evaluations, https://arxiv.org/abs/2307.03109
 
-### Week 9 Mar 29: LLM Deployment (Matthias Gallé from Cohere) Zoom 
+### Week 9 Mar 29: LLM Deployment   
 - Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
 
 ### Qingming Festival Break Apr 5
 
 ### Week 10 Apr 12: AI Regulations (Hwaran Lee from Naver) Zoom
 * Talk1: Hwran Lee from Naver
-* Talk2: Taekyoon Ted Choi from Naver "Efficient Training for Korean-English Cross-Language Models: Unlocking Solutions under $10K"
 
-Intro:  In this exploration, we'll delve into the challenges faced by non-English languages within Language Model (LLM) communities and address these issues, particularly for public researchers. Our focus lies on presenting an efficient training method—Continual Learning—utilizing the renowned Llama2 multilingual model. This session will shed light on strategic data building and model training mechanisms designed to minimize the side effects of Continual Learning. Additionally, we'll share insights and practical tips gleaned from our experiments in training Cross-Language Models.
-
-Bio: 
-Taekyoon is a Research Engineer at NAVER, where my passion lies in the intricate intersection of structuring and compressing global knowledge into parametric models. 
-His expertise extends to evaluating the reconstructive performance of these models and harnessing user behaviors to enhance overall experiences. His contributions span beyond the realm of research, actively involving the practical application of these insights to a diverse range of services. In essence, he is dedicated to bridging the gap between cutting-edge research and tangible, user-centric solutions.
-
-* References
-  * International Institutions for Advanced AI: https://arxiv.org/abs/2307.04699
-  * Frontier AI Regulation: Managing Emerging Risks to Public Safety: https://arxiv.org/abs/2307.03718
 
 ### Week 11 Apr 19: Project Presentations Poster session GZ
 - Students will learn about monitoring and maintenance techniques for LLM models in a production environment, and will set up monitoring and alerting mechanisms for their deployed models.
