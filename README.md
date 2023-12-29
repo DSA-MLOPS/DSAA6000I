@@ -21,7 +21,8 @@ Students will work on individual or group projects that involve the development 
 ## Grading breakdown:
 
 * Participations: 10%
-* Homework: 30%
+* Inclass test: 10%
+* Homework: 20%
 * Mid-project proposal: 20%
 * Final project: 40%
 
