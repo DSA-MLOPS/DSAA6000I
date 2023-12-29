@@ -21,29 +21,25 @@ Students will work on individual or group projects that involve the development 
 ## Grading breakdown:
 
 * Participations: 10%
-* Homework: 10%
-* Mid-term (covering basic concepts): 30%
-* Mid-project proposal: 10%
+* Homework: 30%
+* Mid-project proposal: 20%
 * Final project: 40%
 
 ## Course Outline:
 
-### Week 1 Jan 26: Introduction to Large Language Models (LLMs) and LLM Ops (Sung Kim) GZ --> Zoom
-- Overview of LLMs and their applications in a production environment
-- Introduction to LLM Ops methodology
-- HW (read and one-page report)
+### Week 1 Jan 26 (No class, make up later)
+- HW1 (read and one-page report) and submit one page summary for each paper
   *  Transformer: https://arxiv.org/abs/1706.03762
   *  GPT3.5: https://arxiv.org/abs/2203.02155
-  *  https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a
-- Reference: https://github.com/dair-ai/ML-Papers-Explained 
+  *  https://arxiv.org/abs/2303.18223 
 
-### Week 2 Feb 2: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST) Zoom
-- Deep dive into LLM architectures
-- Techniques for training LLMs from scratch
+### Week 2 Feb 2: In-class finetuning and test - GZ
+- TA will explain basic code of finetuning 1 hour
+- Online test after that. Students must have more than 70 to enroll this class
 
 ### Spring Festival Break Feb 9
 
-### Week 3 Feb 16: Fine-tuning LLMs (Code-GPT, John) GZ + Zoom: #1 Huggingface Leaderboard
+### Week 3 Feb 16: LLM overview - GZ
 - Overview of fine-tuning LLMs
 - Best practices for fine-tuning LLMs in a production environment
 - Simple example: https://github.com/facebookresearch/llama-recipes/blob/main/examples/quickstart.ipynb
@@ -52,7 +48,7 @@ Students will work on individual or group projects that involve the development 
 - https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-for-text-generation-on-amazon-sagemaker-jumpstart/
 - https://github.com/facebookresearch/llama-recipes
 
-### Week 4 Feb 23: LLM in Industry  Zoom
+### Week 4 Feb 23: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
 
 
 ### Week 5 Mar 1: A Survey of Large Language Models
