@@ -1,5 +1,5 @@
-# DSA 6000I: Large Language Models (LLMs) and LLM Ops
-### Spring 2024: Friday 9:00AM-11:50PM HKT @Rm 222, W1 or Zoom
+# DSA 6000E: Model to Production: ML Ops for Real Industry
+### Spring 2024: Friday 9:00AM-11:50PM HKT @Rm202, W4 or Zoom
 
 ## Co-instructors
 * Sung Kim
