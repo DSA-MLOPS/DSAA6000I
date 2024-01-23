@@ -55,7 +55,7 @@ Students will work on individual or group projects that involve the development 
 ### Week 5 Mar 1: A Survey of Large Language Models
  - Reader paper in advance: https://arxiv.org/abs/2303.18223 
 
-### Week 6 Mar 8: Teaming + Applications survey Zoom 
+### Week 6 Mar 8: Matthias Gallé from Cohere (7AM HKT) via zoom
 
 ### Week 7 Mar 15: Project Development GZ 
 - Students will work on their individual or group projects, with guidance and support from instructors as needed.
