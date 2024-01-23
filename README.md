@@ -32,7 +32,6 @@ Students will work on individual or group projects that involve the development 
 - HW1 (read and one-page report) and submit one page summary for each paper
   *  Transformer: https://arxiv.org/abs/1706.03762
   *  GPT3.5: https://arxiv.org/abs/2203.02155
-  *  https://arxiv.org/abs/2303.18223 
 
 ### Week 2 Feb 2: In-class finetuning and test - GZ
 - TA will explain basic code of finetuning 1 hour
