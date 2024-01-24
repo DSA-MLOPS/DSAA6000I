@@ -36,20 +36,17 @@ Students will work on individual or group projects that involve the development 
 ### Week 2 Feb 2: In-class finetuning and test - GZ
 - TA will explain basic code of finetuning 1 hour
 - Online test after that. Students must have more than 70 to enroll this class
-
-### Spring Festival Break Feb 9
-
-### Week 3 Feb 16: LLM overview - GZ
-- Overview of fine-tuning LLMs
-- Best practices for fine-tuning LLMs in a production environment
 - Simple example: https://github.com/facebookresearch/llama-recipes/blob/main/examples/quickstart.ipynb
 - https://artificialcorner.com/mastering-llama-2-a-comprehensive-guide-to-fine-tuning-in-google-colab-bedfcc692b7f
 - https://huggingface.co/docs/trl/index
 - https://aws.amazon.com/blogs/machine-learning/fine-tune-llama-2-for-text-generation-on-amazon-sagemaker-jumpstart/
 - https://github.com/facebookresearch/llama-recipes
 
-### Week 4 Feb 23: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
+### Spring Festival Break Feb 9
 
+### Spring Festival Break Feb 16
+
+### Week 4 Feb 23: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
 
 ### Week 5 Mar 1: A Survey of Large Language Models
  - Reader paper in advance: https://arxiv.org/abs/2303.18223 
