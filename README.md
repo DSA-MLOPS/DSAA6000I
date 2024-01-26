@@ -28,7 +28,7 @@ Students will work on individual or group projects that involve the development 
 
 ## Course Outline:
 
-### Week 1 Jan 26 (No class, make up later)
+### Week 1 Jan 26 (No class, make on Feb 19)
 - HW1 (read and one-page report) and submit one page summary for each paper
   *  Transformer: https://arxiv.org/abs/1706.03762
   *  GPT3.5: https://arxiv.org/abs/2203.02155
@@ -45,6 +45,8 @@ Students will work on individual or group projects that involve the development 
 ### Spring Festival Break Feb 9
 
 ### Spring Festival Break Feb 16
+
+### MakeUp Feb 19: Introduction to Large Language Models (LLMs) and LLM Ops (Sung Kim) GZ 
 
 ### Week 4 Feb 23: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
 
