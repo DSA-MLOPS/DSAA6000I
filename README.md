@@ -28,7 +28,7 @@ Students will work on individual or group projects that involve the development 
 
 ## Course Outline:
 
-### Week 1 Jan 26 (No class, make on Feb 19)
+### Week 1 Jan 26 (No class)
 - HW1 (read and one-page report) and submit one page summary for each paper
   *  Transformer: https://arxiv.org/abs/1706.03762
   *  GPT3.5: https://arxiv.org/abs/2203.02155
@@ -46,31 +46,31 @@ Students will work on individual or group projects that involve the development 
 
 ### Spring Festival Break Feb 16
 
-### MakeUp Feb 19: Introduction to Large Language Models (LLMs) and LLM Ops (Sung Kim) GZ 
+### Feb 19: (Optional) Dinner  GZ 
 
-### Week 4 Feb 23: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
+### Week 4 Feb 23: Introduction to Large Language Models (LLMs) and LLM Ops (Sung Kim)
 
 ### Week 5 Mar 1: A Survey of Large Language Models
  - Reader paper in advance: https://arxiv.org/abs/2303.18223 
 
 ### Week 6 Mar 8: Matthias Gallé from Cohere (7AM HKT) via zoom
 
-### Week 7 Mar 15: Project Development GZ 
-- Students will work on their individual or group projects, with guidance and support from instructors as needed.
+### Week 7 Mar 15: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
 
-### Week 8 Mar 22: LLM Applications and Evaluations  
-- Read: LLM Evaluations, https://arxiv.org/abs/2307.03109
+### Week 8 Mar 22: QWen 2.0
 
-### Week 9 Mar 29: LLM Deployment   
-- Students will learn about best practices for deploying LLM models to production environments, and will deploy their models to a cloud-based production environment using a CI/CD pipeline.
+### Week 9 Mar 29: LLM project proposal. 
 
 ### Qingming Festival Break Apr 5
 
-### Week 10 Apr 12: AI Regulations (Hwaran Lee from Naver) Zoom
+### Week 10 Apr 12: LLM Applications and Evaluations  
+- Read: LLM Evaluations, https://arxiv.org/abs/2307.03109
+
+  
+### Week 11 Apr 19 AI Regulations (Hwaran Lee from Naver) Zoom
 * Talk1: Hwran Lee from Naver
 
-
-### Week 11 Apr 19: Project Presentations Poster session GZ
+### Week 12 Apr 26: Project Presentations Poster session GZ
 - Students will learn about monitoring and maintenance techniques for LLM models in a production environment, and will set up monitoring and alerting mechanisms for their deployed models.
 - Final project presentations to the class, and feedback from instructors and peers.
 - Course review and wrap-up.
@@ -79,7 +79,7 @@ Overall, the course will provide students with a solid understanding of LLM Ops 
 
 We encourage students with a background in natural language processing, machine learning, or data science to enroll in this course. Students should have experience with programming languages such as Python, and familiarity with deep learning frameworks such as TensorFlow or PyTorch.
 
-### Week 12 Apr 26
+
 
 ## References
 * https://github.com/microsoft/LMOps
