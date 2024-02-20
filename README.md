@@ -55,11 +55,11 @@ Students will work on individual or group projects that involve the development 
 
 ### Week 6 Mar 8: Matthias Gallé from Cohere (7AM HKT) via zoom
 
-### Week 7 Mar 15: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
+### Week 7 Mar 15: LLM project proposal. 
 
 ### Week 8 Mar 22: QWen 2.0
 
-### Week 9 Mar 29: LLM project proposal. 
+### Week 9 Mar 29: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
 
 ### Qingming Festival Break Apr 5
 
