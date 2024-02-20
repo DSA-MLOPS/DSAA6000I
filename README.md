@@ -48,22 +48,22 @@ Students will work on individual or group projects that involve the development 
 
 ### Feb 19: (Optional) Dinner  GZ 
 
-### Week 4 Feb 23: Introduction to Large Language Models (LLMs) and LLM Ops (Sung Kim)
+### Week 4 Feb 23: Introduction to Large Language Models (LLMs) and LLM Ops (Sung Kim) @GZ + Zoom
 
-### Week 5 Mar 1: A Survey of Large Language Models
+### Week 5 Mar 1: A Survey of Large Language Models (John) @GZ
  - Reader paper in advance: https://arxiv.org/abs/2303.18223 
 
-### Week 6 Mar 8: Matthias Gallé from Cohere (7AM HKT) via zoom
+### Week 6 Mar 8: Matthias Gallé from Cohere (7AM HKT) @GZ
 
 ### Week 7 Mar 15: LLM project proposal. 
 
-### Week 8 Mar 22: QWen 2.0
+### Week 8 Mar 22: QWen 2.0 @Zoom
 
-### Week 9 Mar 29: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST)
+### Week 9 Mar 29: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST) @Zoom
 
 ### Qingming Festival Break Apr 5
 
-### Week 10 Apr 12: LLM Applications and Evaluations  
+### Week 10 Apr 12: LLM Applications and Evaluations 
 - Read: LLM Evaluations, https://arxiv.org/abs/2307.03109
 
   
