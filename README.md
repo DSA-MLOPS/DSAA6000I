@@ -9,22 +9,15 @@
 This course will provide students with a comprehensive understanding of Large Language Models (LLMs) and their practical applications in a production environment, using LLM Ops methodology. We will explore the latest developments in LLMs and LLM Ops, as well as hands-on training in developing, deploying, and evaluating LLMs.
 
 ## Potential Project Topics:
-Students will work on individual or group projects that involve the development or evaluation of LLMs in a production environment. Here are 3 potential project topics:
-
-* Fine-tuning an existing LLM, such as GPT, for a specific task or domain. For example, you could train the LLM to generate product descriptions, analyze customer feedback, or summarize news articles.
-* Colab: https://colab.research.google.com/drive/1LIYx35-fPFMBS39UzEqf9a4_g7cWEXIg
-
-* Implementing LLMs in practical contexts, such as developing an LLM-powered chatbot for customer service, or training an LLM to classify and analyze medical data for clinical decision-making.
-
-* Evaluating the performance of LLMs, perhaps by comparing the results of different models on a specific task or dataset. This could involve testing the LLMs on metrics such as accuracy, precision, and recall, and analyzing the factors that contribute to their performance.
+TBA
 
 ## Grading breakdown:
 
 * Participations: 10%
 * Inclass test: 10%
-* Homework: 20%
+* Homework: 30%
 * Mid-project proposal: 20%
-* Final project: 40%
+* Final project: 30%
 
 ## Course Outline:
 
