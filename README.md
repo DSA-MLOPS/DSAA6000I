@@ -44,7 +44,7 @@ TBA
 ### Week 4 Feb 23: Introduction to Large Language Models (LLMs) and LLM Ops (Sung Kim) @GZ + Zoom
 
 ### Week 5 Mar 1: A Survey of Large Language Models (John) @GZ
- - Reader paper in advance: https://arxiv.org/abs/2303.18223 
+ - Read the paper in advance: https://arxiv.org/abs/2303.18223 
 
 ### Week 6 Mar 8: Matthias Gallé from Cohere (7AM HKT) @GZ
 
