@@ -60,8 +60,8 @@ TBA
 - Read: LLM Evaluations, https://arxiv.org/abs/2307.03109
 
   
-### Week 11 Apr 19 AI Regulations (Hwaran Lee from Naver) Zoom
-* Talk1: Hwran Lee from Naver
+### Week 11 Apr 19 AI Regulations Zoom
+* 
 
 ### Week 12 Apr 26: Project Presentations Poster session GZ
 - Students will learn about monitoring and maintenance techniques for LLM models in a production environment, and will set up monitoring and alerting mechanisms for their deployed models.
