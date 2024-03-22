@@ -54,14 +54,14 @@ TBA
 
 ### Week 9 Mar 29: LLM pre-training, ecosystem, and Sovereign LLM (Jung-Woo Ha, Head of Naver AI, Adjunct Prof at HKUST) @Zoom
 
-### Qingming Festival Break Apr 5
+### Qingming Festival Break Apr 5: HW Read: LLM Evaluations, https://arxiv.org/abs/2307.03109
 
-### Week 10 Apr 12: LLM Applications and Evaluations 
-- Read: LLM Evaluations, https://arxiv.org/abs/2307.03109
+### Week 10 Apr 12: Towards Sustainable Scale-Up of LLMs and Beyond, Prof. FU Jie
+Increasing the model size, dataset size, and amount of compute for training has been shown to steadily improve the performance of Large Language Models (LLMs). However, unlike labs affiliated with companies like Google, which have access to vast computational resources, academic labs face the challenge of finding alternative and more sustainable ways of scaling up LLMs. In this talk, I will describe our journey of pre-training a 7B-parameter model from scratch. I will delve into the technical aspects of our approach, including the architecture of our model, the training dataset, and the optimization techniques employed. Furthermore, I will discuss the computational resources and infrastructure utilized, highlighting the challenges faced and the solutions implemented to overcome them within an academic setting. In addition to the practical experience of training a large-scale LLM, I will also share some of our ongoing investigations into modular design and continual learning as potential avenues for sustainable scale-up.
+  
 
   
-### Week 11 Apr 19 AI Regulations Zoom
-* 
+### Week 11 Apr 19 LLM-as-a-Judge: A futuristic way of evaluating LLMs, Jamin Shin 
 
 ### Week 12 Apr 26: Project Presentations Poster session GZ
 - Students will learn about monitoring and maintenance techniques for LLM models in a production environment, and will set up monitoring and alerting mechanisms for their deployed models.
